@@ -23,7 +23,6 @@ while True:
         conn.close()
 
         print(f"Attendance Marked for {name}")
-        break
 
     else:
         print("Unknown Card")
